@@ -1,0 +1,1 @@
+Eventos no banco de dados, criação de Trigger Procedure e Trigger, detalhes de FOR EACH ROW | STATEMENT, transações (BEGIN e START TRANSACTION), erros e exceções no PostgreSQL, uso de RAISE e ASSERT, além do conceito de cursores, manipulação com FETCH e MOVE, e aplicação em LOOP.
